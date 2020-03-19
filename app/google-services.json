@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "883219289116",
+    "firebase_url": "https://application-demo-e9ecf.firebaseio.com",
+    "project_id": "application-demo-e9ecf",
+    "storage_bucket": "application-demo-e9ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883219289116:android:6aedf0a6cdd3ed0dcffbd9",
+        "android_client_info": {
+          "package_name": "com.ahtisham.sagheer.trading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883219289116-pb9js3pviabrb64nt71jf5um8m1t17s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIpkfR6YEEaw0uHU2U3b85mBbkgEj_Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883219289116-pb9js3pviabrb64nt71jf5um8m1t17s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883219289116:android:6bc1bbd41bcd0fe9cffbd9",
+        "android_client_info": {
+          "package_name": "com.ahtisham.sagheer.trading2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883219289116-pb9js3pviabrb64nt71jf5um8m1t17s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoIpkfR6YEEaw0uHU2U3b85mBbkgEj_Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883219289116-pb9js3pviabrb64nt71jf5um8m1t17s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
